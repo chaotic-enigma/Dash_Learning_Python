@@ -15,7 +15,9 @@ dash_core_components
 dash_html_components
 pandas-datareader etc
 ```
-> pip installation will make insallation work easy
+```
+**pip install** will make the insallation work easy.
+```
 
 ### Further readings
 ```
