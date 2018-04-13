@@ -9,7 +9,6 @@ Apps can be easily deployed from the local servers and then can be shared throug
 ### Requirements
 
 ```
-Python
 dash
 dash_core_components
 dash_html_components
